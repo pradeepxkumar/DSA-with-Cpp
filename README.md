@@ -4,7 +4,6 @@ Welcome to my C++ & DSA learning repository!
 This repo contains all my notes, examples, and implementations of **Data Structures and Algorithms in C++**, from basics to advanced topics.  
 It is designed for learning, practicing, and building a strong foundation for problem-solving.
 
----
 
 ## 📌 Why We Need Coding
 Coding (or programming) is the process of giving instructions to a computer to perform specific tasks.  
@@ -18,7 +17,6 @@ We need coding because:
 
 💡 **In short:** Coding is the language of the future. Learning it opens endless possibilities.
 
----
 
 ## 💻 What is C++?
 C++ is a high-performance, general-purpose programming language developed by **Bjarne Stroustrup** in 1983 as an extension of C.  
@@ -34,7 +32,6 @@ It supports:
 - Competitive programming
 - Real-time embedded systems
 
----
 
 ## 🕒 Brief History of C++
 - **1979** – "C with Classes" created by Bjarne Stroustrup at Bell Labs.  
@@ -42,7 +39,6 @@ It supports:
 - **1998** – First ISO standard (C++98).  
 - Followed by C++03, C++11, C++14, C++17, C++20 — adding modern features for speed, safety, and usability.
 
----
 
 ## 📚 What is DSA?
 **DSA** stands for **Data Structures and Algorithms**.
@@ -57,7 +53,6 @@ It supports:
 - Saves time & memory.
 - Essential for technical interviews and real-world applications.
 
----
 
 ## ⚡ Why Learn C++ for DSA?
 - **Fast Execution** – C++ is faster than most high-level languages.
@@ -65,7 +60,6 @@ It supports:
 - **STL (Standard Template Library)** – Ready-made data structures and algorithms.
 - **Competitive Programming** – Widely used in contests like Codeforces, LeetCode, CodeChef.
 
----
 
 ## 📂 Topics Covered in This Repository
 
@@ -88,7 +82,6 @@ It supports:
 - Templates (Function & Class)
 - File Handling
 
----
 
 ### **2️⃣ Data Structures**
 - Arrays & 2D Arrays
@@ -103,7 +96,6 @@ It supports:
 - Tries
 - Disjoint Set (Union-Find)
 
----
 
 ### **3️⃣ Algorithms**
 - Searching (Linear Search, Binary Search)
@@ -127,7 +119,6 @@ It supports:
   - Z Algorithm
   - Manacher’s Algorithm
 
----
 
 ## 🎯 Goals of This Repository
 - Build strong problem-solving skills.
@@ -135,7 +126,6 @@ It supports:
 - Prepare for coding interviews.
 - Understand how to write **efficient and optimized** code.
 
----
 
 ## ✅ Summary
 - **Coding** → Communicating with computers to create solutions.
